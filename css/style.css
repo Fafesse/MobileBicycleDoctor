@@ -59,7 +59,7 @@ a, a:hover {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
 }
 .fh5co-banner-text-box .quote-box h2 span {
   color: #ff8013;
@@ -72,7 +72,7 @@ a, a:hover {
   width: 38px;
   left: 0;
   top: 0;
-  background: url("../images/right-quote.png");
+  background: url("");
   background-repeat: no-repeat;
 }
 .fh5co-banner-text-box .quote-box::after {
@@ -80,7 +80,7 @@ a, a:hover {
   position: absolute;
   height: 38px;
   width: 38px;
-  background: url("../images/left-quote.png");
+  background: url("");
   background-repeat: no-repeat;
   right: 0;
   bottom: 0;
