@@ -9,7 +9,7 @@ body {
   font-family: 'Lato', sans-serif;
   overflow: hidden;
   overflow-y: scroll;
-  background-color: #000;
+  background-color: #ff8013;
 }
 body .bg-img {
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@ body nav {
 body nav .navbar-nav a {
   font-size: 16px;
   text-transform: uppercase;
-  color: #fff !important;
+  color: #ff8013 !important;
   transition: all 0.3s;
   -webkit-transition: all 0.3s;
   -ms-transition: all 0.3s;
@@ -42,7 +42,7 @@ body nav .navbar-nav .btn-danger:hover {
 }
 
 a, a:hover {
-  color: #ff8013;
+  color: #dc3545;
 }
 
 .fh5co-banner-text-box {
@@ -109,7 +109,7 @@ a, a:hover {
   margin-top: -70px !important;
 }
 .fh5co-network h2, .fh5co-about-us h2 {
-  color: #FFFFFF;
+  color: #ff8013;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   font-size: 40px;
@@ -196,7 +196,7 @@ a, a:hover {
   max-height: 250px;
 }
 .fh5co-content-box .trainers .card .card-body {
-  background: #ccc;
+  background: #ff8013;
   border-radius: 15px;
   padding: 30px 20px;
   margin-top: 30px;
@@ -212,7 +212,7 @@ a, a:hover {
   margin-left: -15px;
 }
 .fh5co-content-box .trainers .quote-box2 {
-  color: #fff;
+  color: #ff8013;
   max-width: 250px;
   position: relative;
   text-align: center;
@@ -261,10 +261,10 @@ a, a:hover {
   max-height: 580px;
 }
 .fh5co-content-box .gallery .card .card-body {
-  background: #ff8013;
+  background: #000;
 }
 .fh5co-content-box .gallery .card .card-body h4 {
-  color: #fff;
+  color: #ff8013;
 }
 .fh5co-content-box .gallery .card .card-body p {
   font-family: 'Lato', sans-serif;
@@ -279,7 +279,7 @@ footer .footer1 p {
   margin-top: 30px;
 }
 footer .footer2 h4 {
-  color: #FFFFFF;
+  color: #ff8013;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-align: center;
